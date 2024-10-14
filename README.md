@@ -43,6 +43,7 @@ Some of the links below are 🚧 **Work In Progress** 🚧 so please keep this i
 
 ## Roc Tools 🛠️
 - [isaacvando/rtl](https://github.com/isaacvando/rtl): An HTML template language for Roc with compile time validation and tag unions.
+- [stuarth/rocky-the-flying-squirrel](https://github.com/stuarth/rocky-the-flying-squirrel): Generate type-safe Roc from raw SQL
 
 ## Roc Platforms 🏢
 - [roc-lang/basic-cli](https://github.com/roc-lang/basic-cli): CLI apps
